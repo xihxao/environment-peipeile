@@ -12,4 +12,4 @@
 7.cd ..
 8.git add ./6148
 9.git commit -m "6148v1"
-10.git push
+10.git push origin 6148
